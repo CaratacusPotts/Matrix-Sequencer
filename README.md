@@ -44,4 +44,11 @@ Operates in:
 ## When
 
 ## How
+## Photos
+
+![img01](images/img04.jpg)
+![img01](images/img03.jpg)
+![img01](images/img05.jpg)
+![img01](images/img02.jpg)
+
 [![Version1 Sequencer](https://vimeo.com/770474252)](https://vimeo.com/770474252)
