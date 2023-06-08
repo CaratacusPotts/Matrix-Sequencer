@@ -46,9 +46,18 @@ Operates in:
 ## How
 ## Photos
 
-![img01](images/img04.jpg)
-![img01](images/img03.jpg)
-![img01](images/img05.jpg)
-![img01](images/img02.jpg)
+![img04](images/img04.jpg)
+![img03](images/img03.jpg)
+![img05](images/img05.jpg)
+![img02](images/img02.jpg)
 
 [![Version1 Sequencer](https://vimeo.com/770474252)](https://vimeo.com/770474252)
+
+# Other Verions
+
+## Inline Midi 
+![img08](images/img08.jpg)
+![img11](images/img11.jpg)
+![img06](images/img06.jpg)
+![img07](images/img07.jpg)
+![img09](images/img09.jpg)
