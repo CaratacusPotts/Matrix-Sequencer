@@ -77,7 +77,6 @@ Goal was to:
 ![img05](images/img05.jpg)
 ![img02](images/img02.jpg)
 
-[![Version1 Sequencer](https://vimeo.com/770474252)](https://vimeo.com/770474252)
 
 # Other Verions
 
@@ -104,3 +103,10 @@ I needed a break from that type of engineering, so whilst still helping the comp
 If you want to listen to some very novice music made using this Matrix seqencer, see:
 https://soundcloud.com/caratacus_potts
 
+A Vimeo channel with a video of an earlier version of the Matrix
+[![Version1 Sequencer](https://vimeo.com/770474252)](https://vimeo.com/770474252)
+
+
+All the best
+
+Chris
