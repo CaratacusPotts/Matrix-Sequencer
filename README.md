@@ -63,13 +63,51 @@ Goal was to:
 - Fit into existing setups without changing anything (inline).
 - Assemble at home with basic SMD tools, and a 3D printer.
 
-## Where
+## Contents of the repository
+
+I have tried to include everything I created on this project.
+Please note: There are some schematic errors which required minor board mods!!  I have not got around to updating the PCB files.  Please see notes in folders for each item.
+
+Files are for:
+- Matrix (second one - with encoders built in)
+- Inline looper
+- Inline controller
+- Matrix (first one - with not encoders)
+
+Each folder contains:
+- PCB schematics
+- PCB Kicad files
+- Arduino Code
+- Azoteq touch files
+- CAD files (plastic)
+- BOM (mostly mouser parts)
+
+## Specifications Matrix V2 (encoder model)
+
+### Inputs and Outputs
+- USB C to power and program
+- 4x Midi TRS type A
+  - Midi out to Synth
+  - Midi in from Synth
+  - Midi in from Computer/Master Clock
+  - Midi out to computer/other
+- 1x Trigger (3.5mm type) jack for pedal etc.
+
+### Electronics
+- Based on Adafruit ItsyBitsy MO Express https://www.adafruit.com/product/3727
+- Processor: ATSAMD21 Cortex M0 processor running at 48 MHz
+- External Memory: EEPROM 512k I2C
+- Touch: 2x Azoteq multitouch QS550 I2C
+- 24 pin I/O Expander: 2x PCAL6524HEAZ 
+- Led Latch: 2x CAT4016HV6G
+- Leds for display: APTR3216SECK and RGB Leds for indication: IN-PI55TATPRPGPB 
+- Encoders, LDO power, Caps, Resistors etc
+
+### Controls
+
+Buttons
 
 
-
-## When
-
-## How
 ## Photos
 
 ![img04](images/img04.jpg)
