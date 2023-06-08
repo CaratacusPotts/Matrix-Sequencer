@@ -44,7 +44,23 @@ Electronic music possesses both its greatest asset and its greatest drawback: th
 
 Hardware synthesizers currently provide immediacy, tangibility, reliability and lack of spontaneous OS updates, that PC's cannot provide.  But without expensive hardware, the only way to quickly layer sounds is to use built in key-holds playing standard arpeggios that steadily erode their beauty through endless repetition of the same up/down sequences.
 
-
+Goal was to:
+- make an interface that allows for quick note controller access, with immediate visual and tactile feedback - with a nod to the Reason Matrix
+- Keep cost low.  There are solutions already that do similar things, but start at £650 upwards. 
+- Enhance workflow and notation in areas that typically do not get attention, that have a meaningful impact of the quality of music, such as instant: 
+  - Transposing in key
+  - Phasing
+  - High-pass and Low-pass velocity muting
+  - Canon functions in key (Crab, Inversion, Reversing etc)
+  - Hardware agnostic 303 style accents and glides
+  - Velocity and length control
+- Composer mode, allowing the user to play a midi keyboard, and to be able to select which fingers play which synthesizer (for example: left pinky plays bass, middle finger lead, first 3 fingers strings etc)
+- Record mode, where it starts the recording only when you play, and stops the recording and automatically trims length when you remove you foot.  This allows seemless live looping.
+- Loops that are not bound by 16,32 or 64 steps.  But is only bound by number of events.  In the current state, this is 255 events, over a 32bit length of steps (which at low tempo could be a 10 min loop)
+- Scale not chosen by archaic and unrelatable names.  Notes (key) chosen by just selecting which white and black note you want it to stay on - yes, that simple.  (Does not currently handle option to change base notes if going up or down like in a some melodic minor scales - to be added) 
+- Open source and easy to modify for non-programmers to allow people to add features and tweak to their setup.  I really tried to avoid the use of pointers, classes, libraries etc, as I wanted this to be software that anyone could modify - worts and all (I failed on the Midi Library - need remove this at some point)
+- Fit into existing setups without changing anything (inline).
+- Assemble at home with basic SMD tools, and a 3D printer.
 
 ## Where
 
