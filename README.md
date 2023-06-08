@@ -9,6 +9,8 @@ Operates in:
 - Song Mode
 - Conductor Mode
 
+![laylout](images/misc/Functions.jpg)
+
 ### Basic Functions:
 - Start/Stop: Play using internal clock or external midi clock
 - BPM change using encoder
@@ -42,3 +44,4 @@ Operates in:
 ## When
 
 ## How
+[![Version1 Sequencer](https://vimeo.com/770474252)](https://vimeo.com/770474252)
