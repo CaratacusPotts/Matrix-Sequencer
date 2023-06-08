@@ -117,7 +117,6 @@ This is my sequence below.  Using the beauty of base 12, like in music there are
 And simplified to more letter style.   Curious thing, is this also looks like characters from the Ethiopian Geʽez script..
 ![Pentomino01](images/misc/Pentomino01.PNG)
 
-![laylout](images/misc/Functions.jpg)
 
 ## Photos
 
