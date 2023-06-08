@@ -113,7 +113,7 @@ Me having fun..
 We really need to move to a base-12 system.  So so much better.  This is my base-12 numbering, using the super cool Pentomino. See https://en.wikipedia.org/wiki/Pentomino  (thank you Arthur C Clake)
 
 This is my sequence below.  Using the beauty of base 12, like in music there are those lovely 4x3's.  You can see the pattern repeating and growing in complexity.  I also wanted the first numbers to grow dimensionally 1 side, 2 side, 3 side (also shown as triangle), 4 side (Pentomino cross is shown as a negative, as it looks better - and makes a square :-) ). 
-![Pentomino02](images/misc/Pentomino02.PNG)
+![Pentomino03](images/misc/Pentomino03.PNG)
 And simplified to more letter style.   Curious thing, is this also looks like characters from the Ethiopian Geʽez script..
 ![Pentomino01](images/misc/Pentomino01.PNG)
 
