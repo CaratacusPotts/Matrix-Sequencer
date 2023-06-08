@@ -55,6 +55,14 @@ Operates in:
 
 # Other Verions
 
+## First Verison
+![img12](images/img12.jpg)
+![img13](images/img13.jpg)
+![img15](images/img15.jpg)
+![img14](images/img14.jpg)
+
+
+
 ## Inline Midi 
 ![img08](images/img08.jpg)
 ![img11](images/img11.jpg)
