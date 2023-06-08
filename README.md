@@ -35,11 +35,21 @@ Operates in:
 - Polyphonic
 - Intuitive scales
 
+## Why
+### Hardware synthesizer problem:
+
+![laylout](images/misc/img16.png)
+
+Electronic music possesses both its greatest asset and its greatest drawback: the unparalleled flexibility it offers in sound creation. It's simple to purchase a laptop, load your favourite DAW software, and then to wake up, after you have nodded off to a loop running endlessly in your headphones. Perhaps you may get lucky, and a fortuitous accidental mouse click during your slumber may result in a masterpiece. However, it is more probable that your music will end up sounding sterile.
+
+Hardware synthesizers currently provide immediacy, tangibility, reliability and lack of spontaneous OS updates, that PC's cannot provide.  But without expensive hardware, the only way to quickly layer sounds is to use built in key-holds playing standard arpeggios that steadily erode their beauty through endless repetition of the same up/down sequences.
+
+
+
 ## Where
 
 ## Who
 
-## Why
 
 ## When
 
