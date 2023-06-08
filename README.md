@@ -3,6 +3,7 @@
 
 ## What
 Midi sequencer designed to be easy to modify for beginners, and low cost to make.
+Based on Arduino.
 
 Operates in:
 - Loop Mode
@@ -64,7 +65,6 @@ Goal was to:
 
 ## Where
 
-## Who
 
 
 ## When
@@ -95,3 +95,12 @@ Goal was to:
 ![img06](images/img06.jpg)
 ![img07](images/img07.jpg)
 ![img09](images/img09.jpg)
+
+
+## Who
+My name is Chris Malloy.  I developed the Hoverbike back in 2006.  For the last 10 years, my fantastic team and I have built a sucessful company that makes large heavy lift unmanned vehicles (company: Malloy Aeronautics www.malloyaeronautics.com )
+
+I needed a break from that type of engineering, so whilst still helping the company, I have spent the last year finding time to work on this, and de-bug and have lots of fun playing on my gear.
+If you want to listen to some very novice music made using this Matrix seqencer, see:
+https://soundcloud.com/caratacus_potts
+
