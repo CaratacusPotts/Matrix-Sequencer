@@ -2,11 +2,12 @@
 **Stand Alone Midi Sequencer**, for immediate visual interaction with hardware synthesizers
 
 ## What
-Low cost Midi sequencer.
+Midi sequencer designed to be easy to modify for beginners, and low cost to make.
+
 Operates in:
 - Loop Mode
 - Song Mode
-- Conductor
+- Conductor Mode
 
 ### Basic Functions:
 - Start/Stop: Play using internal clock or external midi clock
@@ -15,7 +16,7 @@ Operates in:
 - Record:
   - Overtop: using Encoder button
   - On-Play: holding foot pedal, recording starts when first note played. Recording stops with foot off pedal. Automatically cuts loop to nearest beat, so loops nice.
-- Clear via encoder button.
+- Clear notes (via encoder button)
 
 ### Canon Functions:
 - Transpose (to scale, on/off beat, via encoder or key input)
