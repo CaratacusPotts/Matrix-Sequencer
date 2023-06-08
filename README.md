@@ -106,13 +106,19 @@ Each folder contains:
 
 ### Controls
 
-Buttons 1-12.
+Buttons 1-12.  
+- Used for saving (long press) loop
+- Loading loop or song based on mode you are in (tap new number)
+- Mute all notes (tap the same loop number).
+- Also used to see scale, by holding the transpose button, you can select which notes you want the tranpose and other function to keep your pattern to.
 
-Me having fun..  
+#### Numbering style is me having fun..  
 
-We really need to move to a base-12 system.  So so much better.  This is my base-12 numbering, using the super cool Pentomino. See https://en.wikipedia.org/wiki/Pentomino  (thank you Arthur C Clake)
+We really need to move to a base-12 system.  So so much better.  This is my base-12 numbering, using the super cool Pentomino. See https://en.wikipedia.org/wiki/Pentomino  (thank you Arthur C Clake for enlightening me)
 
-This is my sequence below.  Using the beauty of base 12, like in music there are those lovely 4x3's.  You can see the pattern repeating and growing in complexity.  I also wanted the first numbers to grow dimensionally 1 side, 2 side, 3 side (also shown as triangle), 4 side (Pentomino cross is shown as a negative, as it looks better - and makes a square :-) ). 
+This is my sequence below.  Using the beauty of base 12, like in music there are those lovely 4x3's.  You can see the pattern repeating and growing in complexity (5 is a slight mod of one, 6 of 2 and so on.  9 slight mod of 5, 10 of 6 and so on).  Tried to not have the shapes the same as western numbers.
+
+I also wanted the first numbers to grow dimensionally 1 side, 2 side, 3 side (also shown as triangle), 4 side (Pentomino cross is shown as a negative, as it looks better - and makes a square :-) ). 
 ![Pentomino03](images/misc/Pentomino03.PNG)
 And simplified to more letter style.   Curious thing, is this also looks like characters from the Ethiopian Geʽez script..
 ![Pentomino01](images/misc/Pentomino01.PNG)
