@@ -11,7 +11,7 @@ Operates in:
 
 ![laylout](images/misc/Functions.jpg)
 
-### Basic Functions:
+### Basic Functions (left row):
 - Start/Stop: Play using internal clock or external midi clock
 - BPM change using encoder
 - Loop Start and End points via encoder
@@ -20,7 +20,7 @@ Operates in:
   - On-Play: holding foot pedal, recording starts when first note played. Recording stops with foot off pedal. Automatically cuts loop to nearest beat, so loops nice.
 - Clear notes (via encoder button)
 
-### Canon Functions:
+### Canon and Note Functions (right rows):
 - Transpose (to scale, on/off beat, via encoder or key input)
 - Phase (by multiples of loop, by amount in steps)
 - Frequency (compress note sequence in time, in fractions of current loop length)
