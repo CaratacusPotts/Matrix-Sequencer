@@ -95,10 +95,10 @@ We really need to move to a base-12 system.  So so much better.  This is my base
 
 This is my sequence below.  Using the beauty of base 12, like in music there are those lovely 4x3's.  You can see the pattern repeating and growing in complexity (5 is a slight mod of one, 6 of 2 and so on.  9 slight mod of 5, 10 of 6 and so on).  Tried to not have the shapes the same as western numbers.
 
+More info here: [PENTOMINO](Pentomino/INFORMATION.md)
+
 I also wanted the first numbers to grow dimensionally 1 side, 2 side, 3 side (also shown as triangle), 4 side (Pentomino cross is shown as a negative, as it looks better - and makes a square :-) ). 
-![Pentomino03](images/misc/Pentomino03.PNG)
-And simplified to more letter style.   Curious thing, is this also looks like characters from the Ethiopian Geʽez script..
-![Pentomino01](images/misc/Pentomino01.PNG)
+![Pentomino01](Pentomino/images/Pentomino01.jpg)
 
 
 ## Photos
