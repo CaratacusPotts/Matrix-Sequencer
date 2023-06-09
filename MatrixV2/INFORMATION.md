@@ -1,5 +1,5 @@
 ## PLEASE NOTE:
-This is a prototype, and as such, please see known issues below.
+This is a low TRL device, and as such, please see known issues below.
 
 ## Overview
 
