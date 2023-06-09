@@ -85,6 +85,8 @@ Each folder contains:
 
 ## Specifications Matrix V2 (encoder model)
 
+## [Specifications Matrix V2 (encoder model)](MatrixV2/INFORMATION.md)
+
 ### Inputs and Outputs
 - USB C to power and program
 - 4x Midi TRS type A
