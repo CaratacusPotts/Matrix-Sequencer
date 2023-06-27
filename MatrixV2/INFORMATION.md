@@ -48,9 +48,28 @@ Encoders and Encoder Buttons (working down in columns - from left)
   - Click: Active remote transpose.  This allows keyboard MIDI input to transpose note
   - Click and Hold: Set scale for tranpose, using number buttons (layed out as paino keys) or MIDI keyboard input.  
   - Turn: Transpose up/down
-  - NOTE: Tranpose will try and shift notesonto the selected note only.        
-
-
+  - NOTE: Tranpose will try and shift notes onto the selected note only.
+- Phase:
+  - Click: Active phase.  This will phase shift the loop based on the number of times the loop has played
+  - Click and Turn: Adjust the phase amount (negative or positive)
+  - Turn: Manually phase shift notes
+- Frequency
+  - Turn: Change how fast the notes are played (*2 or /2 of current notes)
+- Y-Mod Notes:
+  - Turn: Reflect notes progressively about a defined axis
+  - Click and Turn: Adjust where the reflection axis is (notes will be progressively reflected about this point)
+- X-Mod Notes:
+  - Turn: Reflect notes progressively about a defined axis
+  - Click and Turn: Adjust where the reflection axis is (notes will be progressively reflected about this point)
+- Mute LPF:
+  - Click: Turn on.  All notes below threshold will play
+  - Turn: Left sets threshold down in pitch.  Up goes up.
+- Mute HPF:
+  - Click: Turn on.  All notes above threshold will play
+  - Turn: Left sets threshold down in pitch.  Up goes up.  
+- Velocity:
+  - Click: Use finger to draw note velocity
+  - Turn: When playing, if you turn, this will record the velocity for one loop. 
 
 ## Issues
 
