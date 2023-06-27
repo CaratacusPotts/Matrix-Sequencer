@@ -33,6 +33,7 @@ Encoders and Encoder Buttons (working down in columns - from left)
 - Play/BPM
   - Click:  Start/Stop
   - Turn:  BPM
+  - Click and Turn: Turn sync off/on
 - Record/Loop End
   - Click: Record notes played in via midi, over top of current loop
   - Turn:  Adjust loop end point
@@ -44,6 +45,9 @@ Encoders and Encoder Buttons (working down in columns - from left)
   - Press and Turn: Zoom in/out (by amount in steps-per-beat)
 - Mode:
   - Turn: Left=Conductor Mode, Middle=Loop Mode, Right=Song Mode
+    - Conductor Mode: See more information below
+    - Loop Mode: Play loop continuously, based on internal BPM or external MIDI sync
+    - Song Mode: See more information below
 - Transpose:
   - Click: Active remote transpose.  This allows keyboard MIDI input to transpose note
   - Click and Hold: Set scale for tranpose, using number buttons (layed out as paino keys) or MIDI keyboard input.  
@@ -69,7 +73,13 @@ Encoders and Encoder Buttons (working down in columns - from left)
   - Turn: Left sets threshold down in pitch.  Up goes up.  
 - Velocity:
   - Click: Use finger to draw note velocity
-  - Turn: When playing, if you turn, this will record the velocity for one loop. 
+  - Turn: When playing, if you turn, this will record the velocity for one loop.
+- Swing:
+  - Not implemented yet.
+ 
+ 
+ ### Song Mode
+
 
 ## Issues
 
