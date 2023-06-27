@@ -36,6 +36,13 @@ Operates in:
 - Polyphonic
 - Intuitive scales
 
+
+
+## [Specifications Matrix V2 (encoder model)](MatrixV2/INFORMATION.md)
+## [Specifications Matrix V1](MatrixV1/INFORMATION.md)
+## [Specifications Inline (simple midi looper)](Inline/INFORMATION.md)
+
+
 ## Why
 ### Hardware synthesizer problem:
 
@@ -83,10 +90,6 @@ Each folder contains:
 - CAD files (plastic)
 - BOM (mostly mouser parts)
 
-
-## [Specifications Matrix V2 (encoder model)](MatrixV2/INFORMATION.md)
-## [Specifications Matrix V1](MatrixV1/INFORMATION.md)
-## [Specifications Inline (simple midi looper)](Inline/INFORMATION.md)
 
 
 #### Numbering style is me having fun..  
