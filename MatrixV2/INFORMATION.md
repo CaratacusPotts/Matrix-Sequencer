@@ -28,6 +28,27 @@ Buttons 1-12.
 - Loading loop or song based on mode you are in (tap new number)
 - Mute all notes (tap the same loop number).
 - Also used to see scale, by holding the transpose button, you can select which notes you want the tranpose and other function to keep your pattern to.
+- Play Notes
+Encoders and Encoder Buttons (working down in columns - from left)
+- Play/BPM
+  - Click:  Start/Stop
+  - Turn:  BPM
+- Record/Loop End
+  - Click: Record notes played in via midi, over top of current loop
+  - Turn:  Adjust loop end point
+- Clear/Loop Start
+  - Click: Clear all notes
+  - Turn: Adjust loop start point
+- Scroll/Zoom
+  - Turn: Scroll screen left/right
+  - Press and Turn: Zoom in/out (by amount in steps-per-beat)
+- Mode:
+  - Turn: Left=Conductor Mode, Middle=Loop Mode, Right=Song Mode
+- Transpose:
+  - Click: Active remote transpose.  This allows keyboard MIDI input to transpose note
+  - Click and Hold: Set scale for tranpose, using number buttons (layed out as paino keys) or MIDI keyboard input.  
+  - Turn: Transpose up/down
+  - NOTE: Tranpose will try and shift notesonto the selected note only.        
 
 
 
