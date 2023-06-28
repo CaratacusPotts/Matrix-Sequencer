@@ -103,3 +103,10 @@ PCB:  mods needed.
 - SD card.  Never checked to to if it worked
 - SHould add breakout tomake programming the Azoteq chips easier (you need to set teh I2C address different for each - but they are stock with the same address)
 Because the capacative grid is on the top layer, the sensing does not work without a layer of some dielectric.  I used clear coat enamel spray paint.  You'll need to put 6-10 thick coats on - to get to a minimum of 0.5mm.  Ideally more.
+
+![laylout](Images/IMG_20220403_124636.jpg)
+![laylout](Images/IMG_20220403_124397.jpg)
+![laylout](Images/IMG_20220403_125009.jpg)
+![laylout](Images/IMG_20220403_125145.jpg)
+![laylout](Images/IMG_20220403_125613.jpg)
+![laylout](Images/IMG_20220403_125648.jpg)
