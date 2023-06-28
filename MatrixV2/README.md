@@ -124,4 +124,9 @@ How it works:
 
 
 ## Issues
+PCB:  mods needed.  
+- I put the I2C pins around the wrong way on the memory (just being a dofus when drawing schematic).
+- Opto's are getting their voltage from the 5V bus - should be teh 3.3V bus.  Micro might not like that..
+- SD card.  Never checked to to if it worked
+- SHould add breakout tomake programming the Azoteq chips easier (you need to set teh I2C address different for each - but they are stock with the same address)
 There are a few bugs and pooly written code.  See Code and PCB info files for known issues.
