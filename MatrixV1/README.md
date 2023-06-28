@@ -94,3 +94,4 @@ How it works:
 
 ## Issues
 There are a few bugs and pooly written code.  See Code and PCB info files for known issues.
+Because the capacative grid is on the top layer, the sensing does not work without a layer of some dielectric.  I used clear coat enamel spray paint.  You'll need to put 6-10 thick coats on - to get to a minimum of 0.5mm.  Ideally more.
