@@ -80,7 +80,7 @@ Encoders and Encoder Buttons (working down in columns - from left)
 
  ### Loop Mode
  Play notes set on screen in continuous loop
- - 
+ - x-axis (horizontal) is time 
  
  ### Song Mode
  Play multiple saved loops in a sequence, that is then loops
