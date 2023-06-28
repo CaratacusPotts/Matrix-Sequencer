@@ -81,7 +81,7 @@ How it works:
 
  
 
-### [Schematic and PCB files - KiCAD](PCB)
+### [Schematic and PCB files - EASY EDA](PCB)
 
 ### [CODE - Arduino](CODE)
 
