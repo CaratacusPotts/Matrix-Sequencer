@@ -77,8 +77,19 @@ Encoders and Encoder Buttons (working down in columns - from left)
 - Swing:
   - Not implemented yet.
  
+
+ ### Loop Mode
+ Play notes set on screen in continuous loop
+ - 
  
  ### Song Mode
+ Play multiple saved loops in a sequence, that is then loops
+ - x-axis (horizontal) is the sequence of loops
+ - y-axis (vertical) is the saved loop number
+ - Loop End Knob sets end point (loops at this point)
+Just tap on screen to set the loop number for when it will play.  For instance: if you want loop pattern 2 to play first, then 1, then 3 and 3 - tap (from bottom left corner) Col 1/Row 2, Col 2/Row 1, Col 3/Row 3, Col 4/Row 3.  Then set the vertical bar on the last loop (col 4 in this case)
+
+ 
 
 
 ## Issues
