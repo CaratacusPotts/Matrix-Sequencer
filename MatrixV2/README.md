@@ -1,7 +1,7 @@
 ## PLEASE NOTE:
 This is a low TRL device, and as such, please see known issues below.
 
-![laylout](images/img00.jpg)
+![laylout](Images/img00.jpg)
 
 
 ## Overview
@@ -129,8 +129,8 @@ How it works:
 ## Issues
 There are a few bugs and pooly written code.  See Code and PCB info files for known issues.
 
-![laylout](images/img01.jpg)
-![laylout](images/img02.jpg)
-![laylout](images/img03.jpg)
-![laylout](images/img05.jpg)
+![laylout](Images/img01.jpg)
+![laylout](Images/img02.jpg)
+![laylout](Images/img03.jpg)
+![laylout](Images/img05.jpg)
 
