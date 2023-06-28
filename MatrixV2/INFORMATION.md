@@ -124,7 +124,9 @@ How it works:
 
 
 ## Issues
-Yeah - there are a few bugs and pooly written code.  See below for known issues.
+There are a few bugs and pooly written code.  See Code and PCB info files for known issues.
+
+
 
 
 
