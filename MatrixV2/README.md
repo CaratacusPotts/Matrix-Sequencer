@@ -1,6 +1,9 @@
 ## PLEASE NOTE:
 This is a low TRL device, and as such, please see known issues below.
 
+![laylout](images/img00.jpg)
+
+
 ## Overview
 ### Inputs and Outputs
 - USB C to power and program
@@ -125,3 +128,9 @@ How it works:
 
 ## Issues
 There are a few bugs and pooly written code.  See Code and PCB info files for known issues.
+
+![laylout](images/img01.jpg)
+![laylout](images/img02.jpg)
+![laylout](images/img03.jpg)
+![laylout](images/img05.jpg)
+
