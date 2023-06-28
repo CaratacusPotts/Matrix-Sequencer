@@ -1,3 +1,7 @@
+The board uses Azoteq chips for the touch (I did not get my custom touch working well enough - so was lazy and used the Azoteq.  Should move away from this, and just use a microcontroller...
+Anyway.  You will need to program them. :-(  I would advise reading their manuals and adjusting the sensitivity better than I did..
+
+
 Programming the touch needs to be done using an Azoteq CT-210 programmer (the one they specify for the Azoteq chip I am using)
 
 - You can either use the hex or flash to program.
