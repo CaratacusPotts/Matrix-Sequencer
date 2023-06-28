@@ -119,11 +119,11 @@ Yeah - there are a few bugs and pooler written code.  See below for known issues
 
 ### SCHEMATIC
 
-### [Schematic and PCB files - KiCAD](MatrixV2/PCB)
+### [Schematic and PCB files - KiCAD](/PCB)
 
 ### CAD 
 
-### [CODE - Arduino](MatrixV2/CODE)
+### [CODE - Arduino](/CODE)
 
 ### PROGRAMMING
 The board uses Azoteq chips for the touch (I did not get my custom touch working well enough - so was lazy and used the Azoteq.  Should move away from this, and just use a microcontroller...
