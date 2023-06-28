@@ -38,9 +38,9 @@ Operates in:
 
 
 
-## [Specifications Matrix V2 (encoder model)](MatrixV2/INFORMATION.md)
-## [Specifications Matrix V1](MatrixV1/INFORMATION.md)
-## [Specifications Inline (simple midi looper)](Inline/INFORMATION.md)
+## [Specifications Matrix V2 (encoder model)](MatrixV2/README.md)
+## [Specifications Matrix V1](MatrixV1/README.md)
+## [Specifications Inline (simple midi looper)](Inline/README.md)
 
 
 ## Why
