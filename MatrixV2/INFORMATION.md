@@ -112,12 +112,6 @@ How it works:
 
  
 
-
-## Issues
-Yeah - there are a few bugs and pooler written code.  See below for known issues.
-
-
-
 ### [Schematic and PCB files - KiCAD](PCB)
 
 ### [CODE - Arduino](CODE)
@@ -125,6 +119,12 @@ Yeah - there are a few bugs and pooler written code.  See below for known issues
 ### [CAD - Solidworks](CAD)
 
 ### [Programing Touch](Azoteq_Touch)
+
+
+
+
+## Issues
+Yeah - there are a few bugs and pooly written code.  See below for known issues.
 
 
 
