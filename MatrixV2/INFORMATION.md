@@ -125,3 +125,8 @@ Yeah - there are a few bugs and pooler written code.  See below for known issues
 
 ### CODE
 
+### PROGRAMMING
+The board uses Azoteq chips for the touch (I did not get my custom touch working well enough - so was lazy and used the Azoteq.  Should move away from this, and just use a microcontroller...
+Anyway.  You will need to program them. :-(  I would advise reading their manuals and adjusting the sensitivity better than I did..
+
+
