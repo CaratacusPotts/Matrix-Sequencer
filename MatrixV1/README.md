@@ -1,6 +1,9 @@
 ## PLEASE NOTE:
 This is a low TRL device, and as such, please see known issues below.
 
+![laylout](Images/V1_1.jpg)
+
+
 ## Overview
 ### Inputs and Outputs
 - USB C to power and program
