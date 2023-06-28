@@ -119,7 +119,7 @@ Yeah - there are a few bugs and pooler written code.  See below for known issues
 
 ### SCHEMATIC
 
-### [Schematic and PCB files - KiCAD](/PCB)
+### [Schematic and PCB files - KiCAD](PCB)
 
 ### CAD 
 
