@@ -99,6 +99,15 @@ Note: Timing is quantized.  The start and end of notes are not based on time - b
  - Loop End Knob sets end point (loops at this point)
 Just tap on screen to set the loop number for when it will play.  For instance: if you want loop pattern 2 to play first, then 1, then 3 and 3 - tap (from bottom left corner) Col 1/Row 2, Col 2/Row 1, Col 3/Row 3, Col 4/Row 3.  Then set the vertical bar on the last loop (col 4 in this case)
 
+
+### Composer Mode
+Allows you to play lots of instruments at once, using different fingers (this is not a keyboard split)
+For instance, if you want your left finger of your left hand to play notes on say a bass synth, your middle finger to play another synth, 3 fingers from the left hand a pad on another synth, and the rest of your fingers another, you can.
+How it works:
+- Everytime a note is pressed, the program looks up to see which note is 1st, 2nd, 3rd and 4th - starting from the lowest note.
+- You assign these 'fingers' (1,2,3,4) to a MIDI out.
+- You can also assign 'all' through.  This means all notes you play go to that synth.
+- 
  
 
 
