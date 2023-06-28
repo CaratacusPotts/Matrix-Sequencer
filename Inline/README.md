@@ -48,5 +48,5 @@ Buttons 1-12.
 ![laylout](Images/img07.jpg)
 ![laylout](Images/img06.jpg)
 ![laylout](Images/img09.jpg)
-![laylout](Images/img010.jpg)
-![laylout](Images/img011.jpg)
+![laylout](Images/img10.jpg)
+![laylout](Images/img11.jpg)
