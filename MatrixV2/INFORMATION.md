@@ -101,17 +101,21 @@ Just tap on screen to set the loop number for when it will play.  For instance: 
 
 
 ### Composer Mode
-Allows you to play lots of instruments at once, using different fingers (this is not a keyboard split)
+Allows you to play multiple MIDI instruments at once, using different fingers (this is not a keyboard split)
 For instance, if you want your left finger of your left hand to play notes on say a bass synth, your middle finger to play another synth, 3 fingers from the left hand a pad on another synth, and the rest of your fingers another, you can.
 How it works:
-- Everytime a note is pressed, the program looks up to see which note is 1st, 2nd, 3rd and 4th - starting from the lowest note.
-- You assign these 'fingers' (1,2,3,4) to a MIDI out.
+- Everytime a note is pressed, the program looks up to see which note held down is 1st, 2nd, 3rd and 4th - starting from the lowest note on the keyboard
+- You assign these note 'fingers' (1,2,3,4) to a MIDI out.
+- There is a delay of less than one step (1/24th of a beat), to allow for chords being played, and fingers not de-pressing at the same time - this way you don't get jumps if transposing a sequence on another machine
 - You can also assign 'all' through.  This means all notes you play go to that synth.
-- 
+
+
  
 
 
 ## Issues
+Yeah - there are a few bugs and pooler written code.  See below for known issues.
+
 
 ### SCHEMATIC
 
