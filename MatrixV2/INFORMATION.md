@@ -80,7 +80,17 @@ Encoders and Encoder Buttons (working down in columns - from left)
 
  ### Loop Mode
  Play notes set on screen in continuous loop
- - x-axis (horizontal) is time 
+ - x-axis (horizontal) is time
+ - y-axis (vertical) is pitch
+ - Half-lit horizontal lines on screen are the 'black' notes on a paino.
+Just tap on screen to set notes to play.
+Fully polyphonic.  No limit, other than processing time (huge amounts of notes in parallel 'might' create audiable lag)
+Adjust loop length and other parameters via the knobs.
+- Long notes (tie):  Tap where you want the start of the note, and then drag your finger (without lifting your finger) to the end of where you want the note.  To shorten the note, just tap where you want it to end.
+- Swipe up or down to see notes outside of screen view
+- Use the zoom in/out knob to create shorter or longer notes
+Note: Timing is quantized.  The start and end of notes are not based on time - but fractions of a beat - based on the MIDI divisions of 24/beat.  This means you can only zoom in so far. (12 steps-per-beat, as we need 1 step for on, and 1 step for off, which makes 24)
+
  
  ### Song Mode
  Play multiple saved loops in a sequence, that is then loops
