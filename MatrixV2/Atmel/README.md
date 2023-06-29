@@ -17,4 +17,5 @@ Using MICROCHIP STUDIO software:
   - 3.3V
 - Open and go to tools - Device Programming
 - Follow this guide: https://learn.adafruit.com/how-to-program-samd-bootloaders/programming-the-bootloader-with-atmel-studio
+- I have put the adafruit Itsybitsy bootloader in this directory, if you need it
   - Happy Days.
