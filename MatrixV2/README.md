@@ -121,6 +121,8 @@ How it works:
 
 ### [CAD - Solidworks](CAD)
 
+### [Programing Micro](Atmel)
+
 ### [Programing Touch](Azoteq_Touch)
 
 
