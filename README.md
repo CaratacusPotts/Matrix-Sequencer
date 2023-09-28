@@ -10,7 +10,12 @@ Operates in:
 - Song Mode
 - Conductor Mode
 
+[![Video Thumbnail](MatrixV2/Images/VimeoMatrix2_Video_Screenshot.png)](https://vimeo.com/868955068)
+
+
 ![laylout](images/misc/Functions.jpg)
+
+
 
 ### Basic Functions (left row):
 - Start/Stop: Play using internal clock or external midi clock
