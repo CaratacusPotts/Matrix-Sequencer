@@ -140,7 +140,7 @@ My name is Chris Malloy.  I developed the Hoverbike back in 2006.  For the last 
 
 I needed a break from that type of engineering, so whilst still helping the company, I have spent the last year finding time to work on this, and de-bug and have lots of fun playing on my gear.
 If you want to listen to some very novice music made using this Matrix seqencer, see:
-https://soundcloud.com/caratacus_potts
+https://soundcloud.com/c-malloy
 
 A Vimeo channel with a video of an earlier version of the Matrix
 [![Version1 Sequencer](https://vimeo.com/770474252)](https://vimeo.com/770474252)
