@@ -10,7 +10,8 @@ Operates in:
 - Song Mode
 - Conductor Mode
 
-[![Video Thumbnail](MatrixV2/Images/VimeoMatrix2_Video_Screenshot.png)](https://vimeo.com/868955068)
+[![Video Thumbnail](MatrixV2/Images/VimeoMatrix2_Video_Screenshot.png)](https://www.youtube.com/watch?v=TjFpd8f3n0o)
+
 
 
 ![laylout](images/misc/Functions.jpg)
